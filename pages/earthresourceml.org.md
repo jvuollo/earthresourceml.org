@@ -1,6 +1,6 @@
 # EarthResourceML Resource Repository
 
-[Intro to EarthResourceML](http://www.cgi-iugs.org/tech_collaboration/earthResourceML.html) | [EarthResourceML schemas](http://schemas.earthresourceml.org/)
+[Intro to EarthResourceML](http://www.cgi-iugs.org/tech_collaboration/earthResourceML.html) | [EarthResourceML schemas](/schemas/)
 
 ---
 
@@ -10,9 +10,9 @@ A new abridged, simple feature (WFS SF-0) version of the EarthResourceML data mo
 ---
 
 #### EarthResourceML-Lite v1.0 model
-* [Documentation](http://www.earthresourceml.org/earthresourceml-lite/1.0/doc/html/index.htm) (HTML)
-* [XML schema](http://schemas.earthresourceml.org/earthresourceml-lite/1.0/) (XSD)
-* [XML example documents](http://www.earthresourceml.org/earthresourceml-lite/1.0/examples) (XML)
+* [Documentation](/earthresourceml-lite/1.0/doc/html/index.htm) (HTML)
+* [XML schema](/schemas/earthresourceml-lite/1.0/) (XSD)
+* [XML example documents](/earthresourceml-lite/1.0/examples) (XML)
 
 
 ---
@@ -23,14 +23,15 @@ EarthResourceML is an XML-based data transfer standard for the exchange of digit
 EarthResourceML v2.0 uses ISO and OGC data standards, including GML v3.2, SWE Common v2, and GeoSciML v3.2
 
 ##### EarthResourceML v2.0 model
-* [Documentation](http://www.earthresourceml.org/earthresourceml/2.0/doc/ERML_HTML_Documentation/) (HTML) 
-* [Enterprise Architect UML project file](http://www.earthresourceml.org/earthresourceml/2.0/eap/) (EAP)
-* [XML schemas](http://schemas.earthresourceml.org/2.0/) (XSD)
+* [Documentation](/earthresourceml/2.0/doc/ERML_HTML_Documentation/) (HTML) 
+* [Enterprise Architect UML project file](/earthresourceml/2.0/eap/) (EAP)
+* [XML schemas](/schemas/2.0/) (XSD)
 
 ---
 
 ### Previous versions of EarthResourceML
 EarthResourceML v1.1 was the only previously released version of EarthResourceML.&nbsp; XSD  schemas of this version depend on WFS v1, GML v3.1.1 and GeoSciML v2.
-* [version 1.1](http://www.earthresourceml.org/earthresourceml/1.1/)
+* [version 1.1](/earthresourceml/1.1/)
 
 ---
+
