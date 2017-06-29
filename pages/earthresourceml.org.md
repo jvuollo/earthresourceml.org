@@ -5,7 +5,7 @@
 ---
 
 ###  ![new](../theme/img/new.gif) *EarthResourceML-Lite version 1.0*
-A new abridged, simple feature (WFS SF-0) version of the EarthResourceML data model is now available.  ERML-Lite can be used to deliver simplified views on mineral occurrences and their commodities, mines, mining activities and mine waste products.
+A new abridged, simple feature (WFS SF-0) version of the EarthResourceML data model is now available and released in June 2016. ERML-Lite can be used to deliver simplified views on mineral occurrences and their commodities, mines, mining activities and mine waste products.
 
 ---
 
