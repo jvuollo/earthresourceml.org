@@ -18,7 +18,7 @@ A new abridged, simple feature (WFS SF-0) version of the EarthResourceML data mo
 ---
 
 ### EarthResourceML - current version 2.0
-The current release of EarthResourceML is version 2.0, released in October 2013.
+The current release of EarthResourceML is a version 2.0, released in October 2013.
 EarthResourceML is an XML-based data transfer standard for the exchange of digital information for mineral occurrences, mines and mining activity. The model describes the geological features of mineral occurrences, their commodities, mineral resources and reserves. It is also able to describe mines and mining activities, and the production of concentrates, refined products, and waste materials.
 EarthResourceML v2.0 uses ISO and OGC data standards, including GML v3.2, SWE Common v2, and GeoSciML v3.2
 
